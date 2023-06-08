@@ -1,0 +1,158 @@
+body {
+  margin: 0px;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+html {
+  font-family: 'Blinker', sans-serif;
+  background-color: #3D4E71;
+
+}
+
+.container {
+  height: 800px;
+  max-width: 688px;
+}
+
+.topo{
+  margin: 0%;
+  display: flex;
+}
+
+h1 {
+    display: inline-block;
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #BDB456;
+    text-transform: uppercase;
+    font-size: 130px;
+    text-align: center;
+    margin-right: 17px;
+}
+
+.sj-1{
+  width: 300px;
+  display: block;
+}
+
+h4 {
+  position: absolute;
+  top: 60px;
+  left: 410px;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #3D4E71;
+  text-shadow: 1px 0 #fff, -1px 0 #fff, 0 1px #fff, 0 -1px #fff,1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+}
+
+.samurai-jack {
+  position: absolute;
+  left: 460px;
+  top: 150px;
+  opacity: 0.7;
+}
+
+h2 {
+  color: #3D4E71;
+  text-transform: uppercase;
+  font-size: 40px;
+  position: absolute;
+  left: 10px;
+  top: 350px;
+  font-size: 5rem;
+  text-shadow: 1px 0 #fff, -1px 0 #fff, 0 1px #fff, 0 -1px #fff,1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+}
+
+.subtitle-rk {
+  color:#fff;
+  font-weight: bold;
+  text-shadow: 1px 0 #000, -1px 0 #000, 0 1px #000, 0 -1px #000,1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+  position: absolute;
+  left: 10px;
+  top: 480px;
+  opacity: 0.7;
+}
+
+.rk-1 {
+  width: 786,3px;
+  display: inline-block;
+  position: relative;
+  margin-bottom: 0;
+  padding-bottom: 0;
+
+}
+
+p {
+  color:#fff;
+  font-weight: bold;
+  text-shadow: 1px 0 #000, -1px 0 #000, 0 1px #000, 0 -1px #000,1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+}
+
+h3 {
+  color: #3D4E71;
+  text-transform: uppercase;
+  font-size: 40px;
+  position: absolute;
+  left: 250px;
+  top: 470px;
+  font-size: 3rem;
+  text-shadow: 1px 0 #fff, -1px 0 #fff, 0 1px #fff, 0 -1px #fff,1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+}
+
+.subtitle-pk {
+  position: absolute;
+  left: 250px;
+  top: 555px;
+  opacity: 0.7;
+}
+
+.neon {
+  font-size: 2rem;
+  top: 600px;
+  left: 318px
+}
+
+.subtitle-neon{
+  position: absolute;
+  left: 318px;
+  top: 650px;
+  opacity: 0.7;
+}
+
+
+.footer {
+  height: 0px;
+  max-width: 688px;
+}
+
+.pokemon {
+  position: absolute;
+  width: 400px;
+  overflow: hidden;
+  top: 490px;
+  left: -75px;
+}
+
+.asuka {
+  position: absolute;
+  width: 200px;
+  top: 630px;
+  left: 450px;;
+}
+
+span {
+  writing-mode: vertical-lr;
+  color: #3D4E71;
+  text-transform: uppercase;
+  position: absolute;
+  left: 260px;
+  top: 45px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
